@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
+// This an easy demo
 func main() {
 	// chr =>char
 	// c,ch =>chan
